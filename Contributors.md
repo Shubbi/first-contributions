@@ -2517,4 +2517,3 @@
 - [Aditya Chatterjee](https://github.com/adityachatterjee42)
 - [Jon Hawranko](https://github.com/Shlim45)
 - [Celso Moraes](https://github.com/cemarte)
-- [Shubbi](https://github.com/shubbi)
